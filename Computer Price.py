@@ -14,6 +14,6 @@ c.sell()
 c.__maxprice=1000
 c.sell()
 
-c.setmaxprice=1000
+c.setmaxprice (1000)
 c.sell()
 
